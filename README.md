@@ -15,3 +15,5 @@ Some features I have in this app are the following:
 
  Note
 All data is stored in memory (no database or file yet). Intended for practice purposes only!!!
+
+Created by **Eleni**

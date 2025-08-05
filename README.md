@@ -1,19 +1,30 @@
-# Clothing-Shop-App-backend-Java
+# 👗 Clothing-Shop-App-backend-Java 👗
+
 A simple Java console app for managing clothes using layered architecture
 
-- Some methods are not currently used — I left them in place to work on them in the future.  
-- No exception handling is implemented yet.  
-- I plan to revisit and improve the code in the future!!!
+---
 
-Some features I have in this app are the following:
-- Add clothing items 
-- View all clothes 
-- Find clothes by category 
-- Check which clothes are out of stock 
-- Update the price of any item 
-- Delete clothing by name
+### Features
+- ➕ Add clothing items  
+- 👀 View all clothes  
+- 🔍 Find clothes by category  
+- 📉 Check which clothes are out of stock  
+- 💰 Update the price of any item  
+- ❌ Delete clothing by name  
 
- Note
-All data is stored in memory (no database or file yet). Intended for practice purposes only!!!
+---
+
+### Notes
+- Some methods are currently unused — I left them in place for future development  
+- No exception handling is implemented yet  
+- All data is stored **in memory** (no database or file persistence)  
+- This app was built strictly for **practice purposes**
+
+---
+
+### What’s Next
+I plan to revisit and improve the code, clean up the unused methods and possibly connect the app to a database for data persistence.
+
+---
 
 Created by **Eleni**
